@@ -1,4 +1,7 @@
 <?php
     $name = "messabih alaa";
-    echo $name;
+    $age = 99;
+    $has_kids = false;
+
+    var_dump($age);
 ?>
